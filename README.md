@@ -13,7 +13,7 @@ A FoodAPI Website Design.
 9. Use CSS framework/ vanilla CSS to make the appearance as professional as possible.
 10. In regular intervals, push to GitHub. Before 12 noon, host the completed project to Netlify. ** use the github repo and netlify hosting url you have submitted in PART 1 of this practical exam.
 
-#Output:
+# Output:
 ![Screenshot 2022-05-17 at 19-44-40 FoodyPanda - Search For Favourite Your Food!](https://user-images.githubusercontent.com/66321598/168826182-affb1943-b7b8-4c23-80b4-474050d9c962.png)
 
 ![Screenshot 2022-05-17 at 19-45-07 FoodyPanda - Search For Favourite Your Food!](https://user-images.githubusercontent.com/66321598/168826335-a245ae54-84c5-4a87-9b7b-9b49c125ed02.png)
